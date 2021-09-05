@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Im a beginner developer working full-time on a large project in a small company 😄. 
+Working with laravel and learning Ux-design on the side. Exploring the field to find my niche.
 <!--
 **rahulcj96/rahulcj96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
