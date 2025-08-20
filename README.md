@@ -1,17 +1,22 @@
-### Hi there 👋
-Im a beginner developer working full-time on a large project in a small company 😄. <br>
-Working with laravel and learning Ux-design on the side. Exploring the field to find my niche.
-<!--
-**rahulcj96/rahulcj96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rahul 👋  
 
-Here are some ideas to get you started:
+I’m a **Solution Engineer** with a background in backend development, frontend frameworks, and DevOps. I’ve worked on everything from sportsbook applications to payment systems, and I enjoy solving problems that blend performance with usability.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+- **Backend:** PHP (Laravel, MVC, OOP), Node.js, WebSockets, RabbitMQ  
+- **Frontend:** HTML, CSS (Tailwind, Bootstrap), JavaScript (React, Vue, Angular)  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **DevOps:** Docker, Git, Multi-service architecture  
+
+---
+
+## 📫 Connect  
+- [LinkedIn](https://www.linkedin.com/in/rahulcj96/)  
+- [GitHub](https://github.com/rahulcj96)  
+- [Email](mailto:rahulr1996@gmail.com)  
+
+---
+
+⚡ *Always curious, learns by building.*
